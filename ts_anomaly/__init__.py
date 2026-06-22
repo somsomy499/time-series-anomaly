@@ -1,0 +1,1 @@
+from .detector import AnomalyDetector\n__version__ = "1.0.0"\n
